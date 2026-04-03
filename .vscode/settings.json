@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\c\\1\\eluosi_game",
+            "binaryPath": "d:\\c\\1\\eluosi_game\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
